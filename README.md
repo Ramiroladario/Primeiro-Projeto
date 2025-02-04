@@ -1,4 +1,3 @@
-# Primeiro-Projeto
 # Sistema de Finanças
 
 - Adicionar Receitas.
